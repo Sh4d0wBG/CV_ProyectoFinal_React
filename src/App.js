@@ -29,8 +29,12 @@ function App() {
             <Routes>
               <Route path="/about" element={<AboutCV />}/>
               <Route path="/education" element={<EducationCV />}/>
-              <Route path="/interests" element={<InteresesCV />}/>
-              <Route path="/contact" element={<ContactCV />}/>
+              <Route path="/interests" element={<InteresesCV/>}/>
+              <Route path="/contact" element={<ContactCV 
+                nameOne="Aurelia Martinez"
+                nameTwo="aurimar@mail.com"
+                nameThree="Quiero trabajar con ustedes :D!"
+              />}/>
             </Routes>
 
 
