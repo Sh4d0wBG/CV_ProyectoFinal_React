@@ -12,7 +12,9 @@ function interests(){
         <Card.Body >
           <Card.Title>INTERESES</Card.Title>
           <Card.Text>
-            Ambos nos interesa bastante el tema del front, el diseño de paginas nos ha parecido interesante por lo tanto, empezamos a estudiar mas a fondo del tema ya que ahonda demasiada informacion. A Sayan le interesa tambien aprender sobre la ciberseguridad o proteccion de datos.  
+            Ambos nos interesa bastante el tema del front, el diseño de paginas nos ha parecido interesante por lo tanto, empezamos a estudiar mas a fondo del tema ya que ahonda demasiada informacion.
+            A Sayan le interesa tambien aprender sobre la ciberseguridad o proteccion de datos, que lo apredendera mas a futuro.  
+
           </Card.Text>
         </Card.Body>
       </Card>
