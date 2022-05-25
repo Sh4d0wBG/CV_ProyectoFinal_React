@@ -15,7 +15,7 @@ function Header(){
             <Link to="/about">Sobre Nosotros</Link>
             <Link to="/education">Educacion</Link>
             <Link to="/interests">Intereses</Link>
-            <Nav.Link href="#contact">Contacto</Nav.Link>
+            <Link to="/contact">Contacto</Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
