@@ -2,6 +2,7 @@ import React from "react";
 import { Navbar } from 'react-bootstrap';
 import { Container } from 'react-bootstrap';
 import { Nav } from 'react-bootstrap';
+import {Link} from "react-router-dom";
 
 function Header(){
   return(
@@ -11,10 +12,9 @@ function Header(){
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#about">Sobre Mi</Nav.Link>
-            <Nav.Link href="#experience">Experiencia</Nav.Link>
-            <Nav.Link href="#education">Educación</Nav.Link>
-            <Nav.Link href="#skills">Habilidades</Nav.Link>
+            <Link to="/about">Sobre Nosotros</Link>
+            <Link to="/education">Educacion</Link>
+            <Link to="/interests">Intereses</Link>
             <Nav.Link href="#contact">Contacto</Nav.Link>
           </Nav>
         </Navbar.Collapse>
