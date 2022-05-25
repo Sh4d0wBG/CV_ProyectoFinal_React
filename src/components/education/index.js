@@ -13,7 +13,7 @@ function education(){
           <Card.Title>EDUCACION</Card.Title>
           <Card.Text>
             Tenemos estudios terminados de primaria y bachiller.
-            La diferecia entre ambos influye en que Sayan tiene un 'Tecnico en mantenimiento de sistemas de computo' 
+            La diferecia entre ambos influye en que Sayan tiene un 'Tecnico en mantenimiento de equipos de computo' 
 
             Actualmente estamos cursando la Universidad, haciendo la carrera de 'Ingenieria de sistemas y telecomunicaciones'
           </Card.Text>
