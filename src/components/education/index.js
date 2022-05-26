@@ -15,7 +15,7 @@ function education(){
             Tenemos estudios terminados de primaria y bachiller.
             La diferecia entre ambos influye en que Sayan tiene un 'Tecnico en mantenimiento de equipos de computo diseño e instalacion de cableado estructurado' 
 
-            Actualmente estamos cursando la Universidad, haciendo la carrera de 'Ingenieria de sistemas y telecomunicaciones'
+            Actualmente estamos cursando la Universidad, haciendo la carrera de 'Ingenieria de sistemas y telecomunicaciones'.
           </Card.Text>
         </Card.Body>
       </Card>
