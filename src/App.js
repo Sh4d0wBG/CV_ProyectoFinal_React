@@ -8,6 +8,9 @@ import './App.css';
 import HeaderCV from './components/header';
 import AboutCV from './components/about/index';
 import EducationCV from './components/education/index';
+import InteresesCV from './components/intereses/index';
+import ContactCV from './components/contacts/index';
+
 import {
   BrowserRouter,
   Routes,
@@ -26,6 +29,12 @@ function App() {
             <Routes>
               <Route path="/about" element={<AboutCV />}/>
               <Route path="/education" element={<EducationCV />}/>
+              <Route path="/interests" element={<InteresesCV/>}/>
+              <Route path="/contact" element={<ContactCV 
+                nameOne="Aurelia Martinez"
+                nameTwo="aurimar@mail.com"
+                nameThree="Quiero trabajar con ustedes :D!"
+              />}/>
             </Routes>
 
 
