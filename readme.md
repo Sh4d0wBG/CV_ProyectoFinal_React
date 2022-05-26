@@ -2,21 +2,21 @@
 
 En este repositorio se dará la definición de ciertos conceptos que manejamos en todo el semestre (V) de ingeniería de Sistemas y Telecomunicaciones, Los integrantes de este proyecto fueron Stephanie Blanquicett Garcia y Sayan Camilo Mosquera Román.
 
-
+![Programación](https://github.com/Sh4d0wBG/CV_ProyectoFinal_React/blob/Rama_SCMR/img/1.jpg)
 
 ___
 
 ## Funciones 
 ### React
 
-![RT](https://github.com/Sh4d0wBG/Javascript_Tarea_1/blob/master/assets/img/descarga.png)
+![RT](https://github.com/Sh4d0wBG/CV_ProyectoFinal_React/blob/Rama_SCMR/img/2.jpg)
 
 React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.
 
 #### Sintaxis basica
 
 
-![Sintaxis - React](https://github.com/Sh4d0wBG/Javascript_Tarea_1/blob/master/assets/img/sintaxis.png)
+![Sintaxis - React](https://github.com/Sh4d0wBG/CV_ProyectoFinal_React/blob/Rama_SCMR/img/3.jpg)
 
 
 ### GIT
@@ -41,12 +41,13 @@ Bootstrap es una biblioteca multiplataforma o conjunto de herramientas de códig
 
 ### Funcion basica
 
-![BS]()
+![BS](https://github.com/Sh4d0wBG/CV_ProyectoFinal_React/blob/Rama_SCMR/img/4.png)
 
 ### CSS
 
 CSS es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.​
 
+![CSS](https://github.com/Sh4d0wBG/CV_ProyectoFinal_React/blob/Rama_SCMR/img/5.png)
 
 Espero haya sido de tu agrado esta pequeña guia!! Si tienes alguna pregunta, no dudes en contactarnos ;) !!
 
